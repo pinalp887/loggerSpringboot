@@ -1,0 +1,57 @@
+2019-01-17 14:39:47 [restartedMain] INFO  c.c.LoogerInSpringbootApplication - Starting LoogerInSpringbootApplication on CTPLDTP040 with PID 8604 (G:\SprinBoot\loogerInSpringboot\target\classes started by pinal.sheradiya in G:\SprinBoot\loogerInSpringboot)
+2019-01-17 14:39:47 [restartedMain] DEBUG c.c.LoogerInSpringbootApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+2019-01-17 14:39:47 [restartedMain] INFO  c.c.LoogerInSpringbootApplication - No active profile set, falling back to default profiles: default
+2019-01-17 14:39:49 [restartedMain] INFO  c.c.LoogerInSpringbootApplication - Started LoogerInSpringbootApplication in 2.207 seconds (JVM running for 2.8)
+2019-01-17 14:39:49 [restartedMain] WARN  c.c.LoogerInSpringbootApplication - in warn log level
+2019-01-17 14:39:49 [restartedMain] ERROR c.c.LoogerInSpringbootApplication - in error level log
+2019-01-17 14:39:49 [restartedMain] INFO  c.c.LoogerInSpringbootApplication - in info level log
+2019-01-17 14:39:49 [restartedMain] DEBUG c.c.LoogerInSpringbootApplication - in debug level log
+2019-01-17 14:44:49 [restartedMain] INFO  c.c.LoogerInSpringbootApplication - Starting LoogerInSpringbootApplication on CTPLDTP040 with PID 8604 (G:\SprinBoot\loogerInSpringboot\target\classes started by pinal.sheradiya in G:\SprinBoot\loogerInSpringboot)
+2019-01-17 14:44:49 [restartedMain] DEBUG c.c.LoogerInSpringbootApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+2019-01-17 14:44:49 [restartedMain] INFO  c.c.LoogerInSpringbootApplication - No active profile set, falling back to default profiles: default
+2019-01-17 14:44:49 [restartedMain] INFO  c.c.LoogerInSpringbootApplication - Starting LoogerInSpringbootApplication on CTPLDTP040 with PID 6620 (G:\SprinBoot\loogerInSpringboot\target\classes started by pinal.sheradiya in G:\SprinBoot\loogerInSpringboot)
+2019-01-17 14:44:49 [restartedMain] DEBUG c.c.LoogerInSpringbootApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+2019-01-17 14:44:49 [restartedMain] INFO  c.c.LoogerInSpringbootApplication - No active profile set, falling back to default profiles: default
+2019-01-17 14:44:50 [restartedMain] INFO  c.c.LoogerInSpringbootApplication - Started LoogerInSpringbootApplication in 0.434 seconds (JVM running for 303.771)
+2019-01-17 14:44:50 [restartedMain] WARN  c.c.LoogerInSpringbootApplication - in warn log level
+2019-01-17 14:44:50 [restartedMain] ERROR c.c.LoogerInSpringbootApplication - in error level log
+2019-01-17 14:44:50 [restartedMain] INFO  c.c.LoogerInSpringbootApplication - in info level log
+2019-01-17 14:44:50 [restartedMain] DEBUG c.c.LoogerInSpringbootApplication - in debug level log
+2019-01-17 14:46:53 [restartedMain] INFO  c.c.LoogerInSpringbootApplication - Starting LoogerInSpringbootApplication on CTPLDTP040 with PID 6532 (G:\SprinBoot\loogerInSpringboot\target\classes started by pinal.sheradiya in G:\SprinBoot\loogerInSpringboot)
+2019-01-17 14:46:53 [restartedMain] DEBUG c.c.LoogerInSpringbootApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+2019-01-17 14:46:53 [restartedMain] INFO  c.c.LoogerInSpringbootApplication - No active profile set, falling back to default profiles: default
+2019-01-17 14:46:53 [restartedMain] INFO  c.c.LoogerInSpringbootApplication - Starting LoogerInSpringbootApplication on CTPLDTP040 with PID 8604 (G:\SprinBoot\loogerInSpringboot\target\classes started by pinal.sheradiya in G:\SprinBoot\loogerInSpringboot)
+2019-01-17 14:46:53 [restartedMain] DEBUG c.c.LoogerInSpringbootApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+2019-01-17 14:46:53 [restartedMain] INFO  c.c.LoogerInSpringbootApplication - No active profile set, falling back to default profiles: default
+2019-01-17 14:46:54 [restartedMain] INFO  c.c.LoogerInSpringbootApplication - Started LoogerInSpringbootApplication in 0.321 seconds (JVM running for 427.655)
+2019-01-17 14:46:54 [restartedMain] WARN  c.c.LoogerInSpringbootApplication - in warn log level
+2019-01-17 14:46:54 [restartedMain] ERROR c.c.LoogerInSpringbootApplication - in error level log
+2019-01-17 14:46:54 [restartedMain] INFO  c.c.LoogerInSpringbootApplication - in info level log
+2019-01-17 14:46:54 [restartedMain] DEBUG c.c.LoogerInSpringbootApplication - in debug level log
+2019-01-17 14:47:00 [restartedMain] INFO  c.c.LoogerInSpringbootApplication - Starting LoogerInSpringbootApplication on CTPLDTP040 with PID 1148 (G:\SprinBoot\loogerInSpringboot\target\classes started by pinal.sheradiya in G:\SprinBoot\loogerInSpringboot)
+2019-01-17 14:47:00 [restartedMain] DEBUG c.c.LoogerInSpringbootApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+2019-01-17 14:47:00 [restartedMain] INFO  c.c.LoogerInSpringbootApplication - No active profile set, falling back to default profiles: default
+2019-01-17 14:47:01 [restartedMain] INFO  c.c.LoogerInSpringbootApplication - Started LoogerInSpringbootApplication in 1.64 seconds (JVM running for 2.227)
+2019-01-17 14:47:01 [restartedMain] WARN  c.c.LoogerInSpringbootApplication - in warn log level
+2019-01-17 14:47:01 [restartedMain] ERROR c.c.LoogerInSpringbootApplication - in error level log
+2019-01-17 14:47:01 [restartedMain] INFO  c.c.LoogerInSpringbootApplication - in info level log
+2019-01-17 14:47:01 [restartedMain] DEBUG c.c.LoogerInSpringbootApplication - in debug level log
+2019-01-17 14:47:35 [restartedMain] INFO  c.c.LoogerInSpringbootApplication - Starting LoogerInSpringbootApplication on CTPLDTP040 with PID 8632 (G:\SprinBoot\loogerInSpringboot\target\classes started by pinal.sheradiya in G:\SprinBoot\loogerInSpringboot)
+2019-01-17 14:47:35 [restartedMain] DEBUG c.c.LoogerInSpringbootApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+2019-01-17 14:47:35 [restartedMain] INFO  c.c.LoogerInSpringbootApplication - No active profile set, falling back to default profiles: default
+2019-01-17 14:48:04 [restartedMain] INFO  c.c.LoogerInSpringbootApplication - Starting LoogerInSpringbootApplication on CTPLDTP040 with PID 9648 (G:\SprinBoot\loogerInSpringboot\target\classes started by pinal.sheradiya in G:\SprinBoot\loogerInSpringboot)
+2019-01-17 14:48:04 [restartedMain] DEBUG c.c.LoogerInSpringbootApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+2019-01-17 14:48:04 [restartedMain] INFO  c.c.LoogerInSpringbootApplication - No active profile set, falling back to default profiles: default
+2019-01-17 14:48:05 [restartedMain] INFO  c.c.LoogerInSpringbootApplication - Started LoogerInSpringbootApplication in 1.65 seconds (JVM running for 2.227)
+2019-01-17 14:48:05 [restartedMain] WARN  c.c.LoogerInSpringbootApplication - in warn log level
+2019-01-17 14:48:05 [restartedMain] ERROR c.c.LoogerInSpringbootApplication - in error level log
+2019-01-17 14:48:05 [restartedMain] INFO  c.c.LoogerInSpringbootApplication - in info level log
+2019-01-17 14:48:05 [restartedMain] DEBUG c.c.LoogerInSpringbootApplication - in debug level log
+2019-01-17 14:48:29 [restartedMain] INFO  c.c.LoogerInSpringbootApplication - Starting LoogerInSpringbootApplication on CTPLDTP040 with PID 7520 (G:\SprinBoot\loogerInSpringboot\target\classes started by pinal.sheradiya in G:\SprinBoot\loogerInSpringboot)
+2019-01-17 14:48:29 [restartedMain] DEBUG c.c.LoogerInSpringbootApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+2019-01-17 14:48:29 [restartedMain] INFO  c.c.LoogerInSpringbootApplication - No active profile set, falling back to default profiles: default
+2019-01-17 14:48:30 [restartedMain] INFO  c.c.LoogerInSpringbootApplication - Started LoogerInSpringbootApplication in 1.67 seconds (JVM running for 2.254)
+2019-01-17 14:48:30 [restartedMain] WARN  c.c.LoogerInSpringbootApplication - in warn log level
+2019-01-17 14:48:30 [restartedMain] ERROR c.c.LoogerInSpringbootApplication - in error level log
+2019-01-17 14:48:30 [restartedMain] INFO  c.c.LoogerInSpringbootApplication - in info level log
+2019-01-17 14:48:30 [restartedMain] DEBUG c.c.LoogerInSpringbootApplication - in debug level log
